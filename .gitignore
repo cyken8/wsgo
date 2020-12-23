@@ -1,0 +1,13 @@
+/.svn
+
+/target/
+*.class
+*.jar
+*.log
+/logs/*
+/target/*
+.classpath
+.settings*
+.project
+/.idea/*
+/src/main/webapp/upload
